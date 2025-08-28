@@ -16,7 +16,7 @@ STACE builds on the Excel-based CeAT model (Circular Economy Austria) developed 
 
 The figure below illustrates the STACE–MISO2 model interface.
 
-<img width="451" height="462" alt="image" src="https://github.com/user-attachments/assets/fbfa7a73-9047-4210-a246-2ad27be11bba" />
+<img width="4106" height="2708" alt="System_Fig" src="https://github.com/user-attachments/assets/209f12e0-70fb-4c1e-bfbb-60215ff043df" />
 Figure 1. Overview of the STACE and MISO2 model integration
 
 **Key Features**
