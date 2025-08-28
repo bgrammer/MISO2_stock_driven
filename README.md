@@ -2,12 +2,12 @@
 
 This repository provides a stock-driven variant of MISO2 model. The MISO2 model (Material Inputs, Stocks, and Outputs) is a dynamic, inflow-driven material stock-flow model that covers 14 supply chain processes — from raw material extraction and processing, through stock-building and stock dynamics, to end-of-life flows and waste management. For detailed information, see the open-access publication: Wiedenhofer et al. (2024) and the [docs of associated repository](https://socialecologyboku.github.io/MISO2/).
 
-In the stock-driven variant in this repository, the workflow has been reversed. Instead of starting from material inflows, the model begins with material stocks and derives associated flows. This enables the analysis of how future service provisioning and material requirements are shaped by existing and projected stocks. Through coupling with MISO2 energy and emission modules, energy consumption and GHG emissions associated with the production of materials can be assessed
+In the stock-driven variant in this repository, the workflow has been reversed. Instead of starting from material inflows, the model begins with material stocks and derives associated flows. This enables the analysis of how future service provisioning and material requirements are shaped by existing and projected stocks. Through coupling with MISO2 energy and emission modules, energy consumption and GHG emissions associated with the production of materials can be assessed.
 
 
 **STACE: Stock-driven Austrian Circular Economy Model**
 
-The newly developed STACE model (Stock-driven Austrian Circular Economy), which quantifies past, current, and future material stocks in Austria’s building, transport, and electricity sectors. 
+Input data for the stock-driven model comes from the newly developed STACE model (Stock-driven Austrian Circular Economy), which quantifies past, current, and future material stocks in Austria’s building, transport, and electricity sectors. 
 
 STACE builds on the Excel-based CeAT model (Circular Economy Austria) developed by Haas et al. (2025), but enhances it by:
 
