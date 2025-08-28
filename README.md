@@ -59,14 +59,3 @@ For domain-related questions, please contact: andre.baumgart@boku.ac.at
 
 For technical questions and bug reports, please open a GitHub issue or contact: benedikt.grammer@boku.ac.at
 
-
-
-
-
-
-
-
-
-## Acknowledgments
-
-This work was supported by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (MAT_STOCKS, grant agreement No 741950), and the European Union's Horizon Europe programme (CircEUlar, grant agreement No 101056810). Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or granting authorities.
