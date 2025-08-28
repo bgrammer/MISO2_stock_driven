@@ -4,6 +4,7 @@ This repository provides a stock-driven variant of MISO2 model. The MISO2 model 
 
 In the stock-driven variant in this repository, the workflow has been reversed. Instead of starting from material inflows, the model begins with material stocks and derives associated flows. This enables the analysis of how future service provisioning and material requirements are shaped by existing and projected stocks. Through coupling with MISO2 energy and emission modules, energy consumption and GHG emissions associated with the production of materials can be assessed
 
+
 **STACE: Stock-driven Austrian Circular Economy Model**
 
 The newly developed STACE model (Stock-driven Austrian Circular Economy), which quantifies past, current, and future material stocks in Austria’s building, transport, and electricity sectors. 
@@ -19,6 +20,7 @@ The figure below illustrates the STACE–MISO2 model interface.
 <img width="4106" height="2708" alt="System_Fig" src="https://github.com/user-attachments/assets/209f12e0-70fb-4c1e-bfbb-60215ff043df" />
 Figure 1. Overview of the STACE and MISO2 model integration
 
+
 **Key Features**
 
 - Tracking of sectoral material stocks and flows in Austria from 2020–2100 with a focus on biophysical requirements of service provisioning (1)
@@ -29,15 +31,18 @@ Figure 1. Overview of the STACE and MISO2 model integration
 
 The model is primarily developed for use in the ARCRP-funded HABITATION-CORRIDORS (Transforming essential provisioning systems through eco-social corridors) project: https://www.tuwien.at/ar/ifip/acrp-project-habitation-corridors
 
+
 **Repository structure**
 
 This repository builds on the main MISO2 model, which provides a code basis. The modified configuration file and data processing pipeline included here serve as the starting point for stock-driven applications.
+
 
 **References**
 
 Haas, W., Baumgart, A., Eisenmenger, N., Virág, D., Kalt, G., Sommer, M., Kratena, K., & Meyer, I. (2025). How decarbonization and the circular economy interact: Benefits and trade-offs in the case of the buildings, transport, and electricity sectors in Austria. Journal of Industrial Ecology, 29(2), 531–545. https://doi.org/10.1111/jiec.13619
 
 Wiedenhofer, D., Streeck, J., Wieland, H., Grammer, B., Baumgart, A., Plank, B., Helbig, C., Pauliuk, S., Haberl, H., & Krausmann, F. (2024). From extraction to end-uses and waste management: Modeling economy-wide material cycles and stock dynamics around the world. Journal of Industrial Ecology, 28(6), 1464–1480. https://doi.org/10.1111/jiec.13575
+
 
 **Authors**
 
@@ -47,9 +52,11 @@ The stock-driven MISO2 software as well as the STACE-MISO2 interface is currentl
 - Jan Streeck
 - André Baumgart
 
+
 **Contact**
 
 For domain-related questions, please contact: andre.baumgart@boku.ac.at
+
 For technical questions and bug reports, please open a GitHub issue or contact: benedikt.grammer@boku.ac.at
 
 
